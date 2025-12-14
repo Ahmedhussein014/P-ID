@@ -1,0 +1,5 @@
+{
+  "name": "P&ID Insight",
+  "description": "An intelligent tool for engineers to analyze, interpret, and chat with Piping and Instrumentation Diagrams (P&IDs) using AI.",
+  "requestFramePermissions": []
+}
